@@ -5,7 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Firstly rename example.env to .env and add the environment variable from EmailJS dashboard.
 
 REACT_APP_SERVICE_ID = XXXXX
+
 REACT_APP_TEMPLATE_ID = XXXXX
+
 REACT_APP_USER_ID = XXXXXX
 
 ## Available Scripts
