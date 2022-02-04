@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Firstly rename example.env to .env and add the environment variable from EmailJS dashboard.
+
+REACT_APP_SERVICE_ID = XXXXX
+REACT_APP_TEMPLATE_ID = XXXXX
+REACT_APP_USER_ID = XXXXXX
+
 ## Available Scripts
 
 In the project directory, you can run:
