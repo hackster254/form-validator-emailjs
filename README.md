@@ -8,10 +8,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This web app uses a number of open source projects to work properly:
 
-- [ReactJS] - HTML enhanced for web apps!
-- [Bootstrap] - awesome web-based text editor
-- [React Hook Form] - Markdown parser done right. Fast and easy to extend.
-- [EmailJS] - great UI boilerplate for modern web apps
+- [ReactJS] - A JavaScript library for building user interfaces!
+- [Bootstrap] -  the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.
+- [React Hook Form] - Performant, flexible and extensible forms with easy-to-use validation..
+- [EmailJS] - Serverless service to send emails without a backend
 
 
 ## Firstly rename example.env to .env and add the environment variable from EmailJS dashboard.
