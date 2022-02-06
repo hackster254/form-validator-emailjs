@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Input validation using React Hook Forms and sending emails in REACTJS using EmailJS
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Tech
+
+This web app uses a number of open source projects to work properly:
+
+- [ReactJS] - HTML enhanced for web apps!
+- [Bootstrap] - awesome web-based text editor
+- [React Hook Form] - Markdown parser done right. Fast and easy to extend.
+- [EmailJS] - great UI boilerplate for modern web apps
+
 
 ## Firstly rename example.env to .env and add the environment variable from EmailJS dashboard.
 
@@ -9,6 +21,8 @@ REACT_APP_SERVICE_ID = XXXXX
 REACT_APP_TEMPLATE_ID = XXXXX
 
 REACT_APP_USER_ID = XXXXXX
+
+
 
 ## Available Scripts
 
@@ -53,26 +67,15 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+MIT
 
-### Analyzing the Bundle Size
+**Free Software, Hell Yeah!**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   [ReactJS]: <https://reactjs.org/>
+   [React Hook Form]: <https://react-hook-form.com/>
+      [Bootstrap]: <https://getbootstrap.com>
+   [EmailJS]: <https://www.emailjs.com/docs/examples/reactjs/>
